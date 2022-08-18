@@ -1323,6 +1323,13 @@
     pirates "^4.0.5"
     source-map-support "^0.5.16"
 
+"@babel/runtime@^7.17.2":
+  version "7.18.9"
+  resolved "https://registry.npmmirror.com/@babel/runtime/-/runtime-7.18.9.tgz#b4fcfce55db3d2e5e080d2490f608a3b9f407f4a"
+  integrity sha512-lkqXDcvlFT5rvEjiu6+QYO+1GXrEHRo2LOtS7E4GtX5ESIZOgepqsZBVIj6Pv+a6zqsya9VCgiK1KAK4BvJDAw==
+  dependencies:
+    regenerator-runtime "^0.13.4"
+
 "@babel/runtime@^7.17.7":
   version "7.17.7"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.17.7.tgz#a5f3328dc41ff39d803f311cfe17703418cf9825"
@@ -7337,6 +7344,31 @@ humanize-plus@^1.8.1:
   resolved "https://registry.npmjs.org/humanize-plus/-/humanize-plus-1.8.2.tgz#a65b34459ad6367adbb3707a82a3c9f916167030"
   integrity sha1-pls0RZrWNnrbs3B6gqPJ+RYWcDA=
 
+i18next-electron-fs-backend@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npmmirror.com/i18next-electron-fs-backend/-/i18next-electron-fs-backend-3.0.0.tgz#94470d1fef83c35c939fafb7c3616c45a524585f"
+  integrity sha512-XAljvZm3OEtHwpPhlazucPCqPze83MGJqX79l0AaLOHZX0YrnIcD7KwWqL+oZNEV7Np4MMDVooTegYBLF3Hjog==
+  dependencies:
+    lodash.clonedeep "^4.5.0"
+    lodash.merge "^4.6.2"
+
+i18next-fs-backend@^1.1.5:
+  version "1.1.5"
+  resolved "https://registry.npmmirror.com/i18next-fs-backend/-/i18next-fs-backend-1.1.5.tgz#dcbd8227b1c1e4323b3c40e269d4762e8313d9e5"
+  integrity sha512-raTel3EfshiUXxR0gvmIoqp75jhkj8+7R1LjB006VZKPTFBbXyx6TlUVhb8Z9+7ahgpFbcQg1QWVOdf/iNzI5A==
+
+i18next-vue@^2.0.0-beta.3:
+  version "2.0.0-beta.3"
+  resolved "https://registry.npmmirror.com/i18next-vue/-/i18next-vue-2.0.0-beta.3.tgz#c7341c0d91e970a23eec4bff3b079e0105670439"
+  integrity sha512-rmDBM7r79uz1skaz9Ep2BivmTejXdinX8ZkEmJJgf0JtJYVBXn3hBLfOZ9lXLu1pnCYFmu7l9YTv/36wlfWw0g==
+
+i18next@^21.9.1:
+  version "21.9.1"
+  resolved "https://registry.npmmirror.com/i18next/-/i18next-21.9.1.tgz#9e3428990f5b2cc9ac1b98dd025f3e411c368249"
+  integrity sha512-ITbDrAjbRR73spZAiu6+ex5WNlHRr1mY+acDi2ioTHuUiviJqSz269Le1xHAf0QaQ6GgIHResUhQNcxGwa/PhA==
+  dependencies:
+    "@babel/runtime" "^7.17.2"
+
 iconv-corefoundation@^1.1.7:
   version "1.1.7"
   resolved "https://registry.yarnpkg.com/iconv-corefoundation/-/iconv-corefoundation-1.1.7.tgz#31065e6ab2c9272154c8b0821151e2c88f1b002a"
@@ -8555,6 +8587,11 @@ locate-path@^6.0.0:
   integrity sha512-iPZK6eYjbxRu3uB4/WZ3EsEIMJFMqAoopl3R+zuq0UjcAm/MO6KCweDgPfP3elTztoKP3KtnVHxTn2NHBSDVUw==
   dependencies:
     p-locate "^5.0.0"
+
+lodash.clonedeep@^4.5.0:
+  version "4.5.0"
+  resolved "https://registry.npmmirror.com/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
+  integrity sha512-H5ZhCF25riFd9uB5UCkVKo61m3S/xZk1x4wA6yp/L3RFP6Z/eHH1ymQcGLo7J3GMPfm0V/7m1tryHuGVxpqEBQ==
 
 lodash.debounce@^4.0.8:
   version "4.0.8"

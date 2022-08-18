@@ -37,6 +37,7 @@ import {
 import services from './services'
 import routes from './router'
 import { addElementStyle } from '@/util/theme'
+import messages from '../i18n/index'
 
 import './assets/styles/index.css'
 import './assets/styles/printService.css'

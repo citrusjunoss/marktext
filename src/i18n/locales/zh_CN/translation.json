@@ -1,0 +1,18 @@
+{
+  "toolbar.file": "文件",
+  "toolbar.file.newTab": "新标签",
+  "toolbar.file.newWindow": "新窗口",
+  "toolbar.file.openFile": "打开文件",
+  "toolbar.file.openFolder": "打开文件夹",
+  "toolbar.file.openRecent": "打开最近",
+  "toolbar.file.save": "保存",
+  "toolbar.file.saveAs": "另存为",
+  "toolbar.file.autoSave": "自动保存",
+  "toolbar.file.moveTo": "移动到",
+  "toolbar.file.rename": "重命名",
+  "toolbar.file.import": "导入",
+  "toolbar.file.export": "导出",
+  "toolbar.file.print": "打印",
+  "toolbar.file.closeTab": "关闭标签",
+  "toolbar.file.closeWindow": "关闭窗口"
+}

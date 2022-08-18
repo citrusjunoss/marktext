@@ -1,0 +1,18 @@
+{
+  "toolbar.file": "File",
+  "toolbar.file.newTab": "New Tab",
+  "toolbar.file.newWindow": "New Window",
+  "toolbar.file.openFile": "Open File",
+  "toolbar.file.openFolder": "Open Folder",
+  "toolbar.file.openRecent": "Open Recent",
+  "toolbar.file.save": "Save",
+  "toolbar.file.saveAs": "Save As",
+  "toolbar.file.autoSave": "Auto Save",
+  "toolbar.file.moveTo": "Move To",
+  "toolbar.file.rename": "Rename",
+  "toolbar.file.import": "Import",
+  "toolbar.file.export": "Export",
+  "toolbar.file.print": "Print",
+  "toolbar.file.closeTab": "Close Tab",
+  "toolbar.file.closeWindow": "Close Window"
+}
