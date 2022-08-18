@@ -2,7 +2,7 @@ import { app } from 'electron'
 import * as actions from '../actions/file'
 import { userSetting } from '../actions/marktext'
 import { isOsx } from '../../config'
-// 测试代码冲突
+// 测试代码冲突B
 export default function (keybindings, userPreference, recentlyUsedFiles) {
   const { autoSave } = userPreference.getAll()
   const fileMenu = {
